@@ -1,4 +1,4 @@
-# ⏳ Em Desenvolvimento
+# ✔️ Concluído
 
 # 🏛️ Site Institucional — Escritório de Advocacia Daniel Coutinho
 
